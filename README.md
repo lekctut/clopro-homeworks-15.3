@@ -28,16 +28,16 @@
 
 - Созданный объект с шифрованием
 
-![alt text](images\1.png)
+![alt text](images/1.png)
 
 - созданный сертификат
 
-![alt text](images\3.png)
+![alt text](images/3.png)
 
 - настройки хостина у object storage
 
-![alt text](images\4.png)
+![alt text](images/4.png)
 
 - результат работы 
 
-![alt text](images\2.png)
+![alt text](images/2.png)
